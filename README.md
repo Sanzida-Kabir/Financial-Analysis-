@@ -63,9 +63,6 @@ Samsung-Electronics-Financial-Analysis/
 │
 ├── README.md
 │
-├── Data/
-│   └── Samsung_Financial_Data.xlsx
-│
 ├── Excel/
 │   └── Samsung_Financial_Analysis.xlsx
 │
@@ -77,11 +74,12 @@ Samsung-Electronics-Financial-Analysis/
 │
 └── Images/
     ├── revenue-profit.png
-    ├── profitability.png
-    ├── cash-flow.png
-    ├── financial-position.png
-    ├── segment-analysis.png
-    └── geographic-analysis.png
+│   ├── profitability.png
+│   ├── cash-flow.png
+│   ├── liquidity-leverage.png
+│   ├── assets-receivables.png
+│   ├── segment-analysis.png
+│   └── geographic-analysis.png
 ```
 
 ---
@@ -157,7 +155,7 @@ However, net income was still **18.8% below 2022**.
 
 
 ```markdown
-![Samsung Revenue and Profit Trend](Images/revenue-profit.png)
+[![Samsung Revenue and Profit Trend](Images/revenue-profit.png)](Images/revenue-profit.png)
 ```
 
 ---
@@ -193,7 +191,7 @@ The company needs to ensure that the improvement in gross profitability translat
 ### 📊 Profitability Trend
 
 ```markdown
-![Samsung Profitability Trend](Images/profitability.png)
+[![Samsung Profitability Trend](Images/profitability.png)](Images/profitability.png)
 ```
 
 ---
@@ -229,7 +227,7 @@ This represents a substantial improvement from the **−₩13.5T** FCF recorded 
 ### 📊 Cash Flow Trend
 
 ```markdown
-![Samsung Cash Flow Analysis](Images/cash-flow.png)
+[![Samsung Cash Flow Analysis](Images/cash-flow.png)](Images/cash-flow.png)
 ```
 
 ---
@@ -277,7 +275,7 @@ This does **not automatically indicate collection problems**, because year-end b
 ### 📊 Asset & Receivables Trend
 
 ```markdown
-![Samsung Asset and Receivables Growth](Images/financial-position.png)
+[![Samsung Assets and Receivables](Images/assets-receivables.png)](Images/assets-receivables.png)
 ```
 
 ---
@@ -312,7 +310,7 @@ Divisional sales are reported before intercompany eliminations. Therefore, divis
 ### 📊 Segment Analysis
 
 ```markdown
-![Samsung Business Segment Analysis](Images/segment-analysis.png)
+[![Samsung Business Segment Analysis](Images/segment-analysis.png)](Images/segment-analysis.png)
 ```
 
 ---
@@ -341,7 +339,7 @@ This provides an additional geographic dimension to the company's growth analysi
 ### 📊 Geographic Sales
 
 ```markdown
-![Samsung Geographic Sales Analysis](Images/geographic-analysis.png)
+[![Samsung Geographic Sales Analysis](Images/geographic-analysis.png)](Images/geographic-analysis.png)
 ```
 
 ---
@@ -567,9 +565,6 @@ The PowerPoint summarizes the research findings and recommendations in presentat
 
 **[View Presentation](Presentation/Samsung_Financial_Analysis_Presentation.pptx)**
 
-### 📂 Data
-
-**[View Supporting Data](Data/Samsung_Financial_Data.xlsx)**
 
 ---
 
