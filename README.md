@@ -553,20 +553,19 @@ The report documents these definitions and treatment decisions, including the us
 
 The Excel workbook contains the underlying financial data, calculations, ratios, growth analysis and dashboard.
 
-**[View Excel Analysis](Excel/Samsung_Financial_Analysis.xlsx)**
+- [Download Excel Financial Analysis](Excel/Samsung_Financial_Analysis.xlsx)
 
 ### 📄 Research Report
 
 The complete written analysis explains the methodology, findings, limitations and recommendations.
 
-**[Read Full Research Report](Report/Samsung_Financial_Analysis_Report.pdf)**
+- [Read the Final Report](Report/Samsung_Financial_Analysis_Report.pdf)
 
 ### 📈 Presentation
 
 The PowerPoint summarizes the research findings and recommendations in presentation format.
 
-**[View Presentation](Presentation/Samsung_Financial_Analysis_Presentation.pptx)**
-
+- [View the PowerPoint Presentation](Presentation/Samsung_Financial_Analysis_Presentation.pptx)
 
 ---
 
