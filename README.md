@@ -635,4 +635,4 @@ At the business level, the recovery has also become increasingly semiconductor-l
 
 > **Samsung's financial recovery is substantial, but the next challenge is sustainability: improving earnings resilience, controlling cost intensity, increasing working-capital and asset productivity, and strengthening slower-growing businesses.**
 
-**This project is an academic/student equity-research portfolio and does not constitute investment advice.**
+**This project is an academic/student financial analysis portfolio and does not constitute investment advice.**
