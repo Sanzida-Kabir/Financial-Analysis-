@@ -155,7 +155,9 @@ However, net income was still **18.8% below 2022**.
 
 
 ```markdown
-[![Samsung Revenue and Profit Trend](Images/revenue-profit.png)](Images/revenue-profit.png)
+[Open Revenue and Profit Chart](Images/revenue-profit.png)
+
+![Revenue and Profit Chart](Images/revenue-profit.png)
 ```
 
 ---
